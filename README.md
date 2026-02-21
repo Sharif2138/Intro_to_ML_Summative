@@ -1,4 +1,4 @@
-#**Early Skin Cancer Detection Using Machine Learning and Deep Learning**
+**Early Skin Cancer Detection Using Machine Learning and Deep Learning**
 
 This notebook demonstrates experiments comparing traditional machine learning models and deep learning convolutional neural networks  for early cancer detection using medical images. 
 
